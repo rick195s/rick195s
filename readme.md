@@ -9,10 +9,10 @@
 ## :chart_with_upwards_trend: GitHub Stats
 <p align="center">
 <a href="" >
-  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick195s&theme=dark&layout=compact" />
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick195s&theme=dark&layout=compact" />
 </a>
 <a href="">
-  <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=rick195s&show_icons=true&theme=dark&line_height=27&count_private=true" alt="Rick195s GitHub Stats" />
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=rick195s&show_icons=true&theme=dark&line_height=27&count_private=true" alt="Rick195s GitHub Stats" />
 </a>
 </p>
 <br />
