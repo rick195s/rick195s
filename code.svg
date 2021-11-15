@@ -76,7 +76,9 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
-			
+			<div class="container">
+				<img src="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg" width="800" height="400" alt="Click to see the source">
+			</div>
 		</div>
 	</foreignObject>
 </svg>
