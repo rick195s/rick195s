@@ -11,17 +11,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rick195s&show_icons=true&theme=dark" alt="Rick195s GitHub Stats" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick195s&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick195s&theme=dark" />
 </a>
 
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
