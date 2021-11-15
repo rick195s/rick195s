@@ -29,10 +29,14 @@
 <br />
 
 ## :mailbox: Connect with me:
-<p align="left">
-<a href="https://twitter.com/rick195s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rick195s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ricardo-f-72234a180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-f-72234a180" height="30" width="40" /></a>
-</p>
+
+<div>
+  
+  <a href="https://twitter.com/Rick195s" target="_blank"><img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="mailto:ricardosf195@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ricardo-f-72234a180/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 <br />
 
 ## :computer: Languages and Tools:
