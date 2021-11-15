@@ -1,8 +1,13 @@
-<svg width="500" height="350">
-         <defs>
-            <clipPath id="myCircle">
-               <circle cx="250" cy="145" r="125" fill="#FFFFFF" />
-            </clipPath>
-         </defs>
-         <image width="500" height="350" xlink:href="https://www.tutorialspoint.com/videotutorials/images/coding_ground_home.jpg" clip-path="url(#myCircle)" />
-      </svg>
+<svg width="500" height="250">
+    <defs>
+        <clipPath id="circleView">
+            <circle cx="250" cy="125" r="125" fill="#FFFFFF" />
+        </clipPath>
+    </defs>
+    <image 
+      width="500" 
+      height="250" 
+      xlink:href="https://www.amrita.edu/sites/default/files/news-images/new/news-events/images/l-nov/grass.jpg" 
+      clip-path="url(#circleView)"
+    />
+ </svg>
