@@ -8,10 +8,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rick195s&show_icons=true&theme=dark" alt="Rick195s GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick195s&theme=dark" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick195s&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rick195s&show_icons=true&theme=dark" alt="Rick195s GitHub Stats" />
 </a>
 
 
