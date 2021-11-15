@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick195s&theme=dark&langs_count=3" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rick195s&show_icons=true&theme=dark" alt="Rick195s GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rick195s&show_icons=true&theme=dark&line_height=27&count_private=true" alt="Rick195s GitHub Stats" />
 </a>
 
 
