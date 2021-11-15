@@ -6,7 +6,7 @@
 </p>
 <br />
 
-## &#x1f4c8; GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 <p align="center">
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick195s&theme=dark&langs_count=3" />
@@ -17,7 +17,7 @@
 </p>
 <br />
 
-## 🔥 Streak stats
+## :fire: Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -28,14 +28,14 @@
 </p>
 <br />
 
-## Connect with me:
+## :mailbox: Connect with me:
 <p align="left">
 <a href="https://twitter.com/rick195s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rick195s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ricardo-f-72234a180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-f-72234a180" height="30" width="40" /></a>
 </p>
 <br />
 
-## Languages and Tools:
+## :computer: Languages and Tools:
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
