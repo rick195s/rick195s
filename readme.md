@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ricardo Franco</h1>
 <h3 align="center">A passionate full stack developer from Portugal</h3>
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rick195s&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rick195s&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
+
 
 
 <h3 align="left">Connect with me:</h3>
