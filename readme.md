@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Portugal</h3>
 
 <p align="center">
-  <img width="100%" height="200px" style="object-fit: cover;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+  <img width="400px"  style="object-fit: contain;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 </p>
 
 ## &#x1f4c8; GitHub Stats
