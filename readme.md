@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo Franco</h1>
-<h3 align="center">A passionate full stack developer from Portugal</h3>
+<h3 align="center">A passionate Software Engineer from Portugal</h3>
 
 <p align="center">
   <img width="350px"  style="object-fit: contain;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
