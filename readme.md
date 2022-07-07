@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Software Engineer from Portugal</h3>
 
 <p align="center">
-  <!-- <img width="350px"  style="object-fit: contain;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"> -->
-  <a href="https://app.daily.dev/rick195s"><img src="https://github.com/rick195s/rick195s/blob/main/devcard.svg" width="400" alt="Ricardo Franco's Dev Card"/></a>
+  <img width="350px"  style="object-fit: contain;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+  
 </p>
 <br />
 
